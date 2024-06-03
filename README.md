@@ -3,7 +3,7 @@
 Just a simple desktop Todo list application created with wpf 
 
 ### How to download
-Download the repo and publish to any folder. 
+Download the repo and publish the project to any folder. 
 
 ### Next steps
 - Add new list button to the sidebar.
